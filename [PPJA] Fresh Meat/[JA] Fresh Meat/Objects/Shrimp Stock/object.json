@@ -1,6 +1,6 @@
 {
     "Name": "Shrimp Stock",
-    "Description": "Stewed down chicken broth that's often used as a base for soup.",
+    "Description": "Stewed down shrimp broth that's often used as a base for soup.",
     "Category": "Cooking",
     "Edibility": 66,
     "EdibleIsDrink": false,
@@ -54,7 +54,7 @@
          // "it": "",
          // "ja": "",
          // "pt": "",
-         // "ru": "",
+        "ru": "Креветочный бульон",
          // "tr": "",
         // "zh": "",
     },
@@ -68,7 +68,7 @@
          // "it": "",
          // "ja": "",
          // "pt": "",
-         // "ru": "",
+        "ru": "Тушеный криветочный бульон, который часто используется в качестве основы для супа.",
          // "tr": "",
         // "zh": "",
     }

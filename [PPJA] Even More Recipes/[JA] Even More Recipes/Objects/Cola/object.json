@@ -37,7 +37,7 @@
          // "it": "",
         "ja": "コーラ",
         "pt": "Cola",
-         // "ru": "",
+        "ru": "Кола",
          // "tr": "",
         "zh": "可乐",
     },
@@ -51,7 +51,7 @@
          // "it": "",
         "ja": "Jojaコーラよりもおいしい。",
         "pt": "Tem um gosto melhor do que aquela Joja-Cola",
-         // "ru": "",
+        "ru": "Вкуснее, чем Joja Cola.",
          // "tr": "",
         "zh": "可乐。尝起来比Joja可乐更好。",
     }

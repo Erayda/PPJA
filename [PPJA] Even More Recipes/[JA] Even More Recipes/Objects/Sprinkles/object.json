@@ -32,9 +32,8 @@
          // "it": "",
         "ja": "スプリンクル",
         "pt": "Granulados",
-         // "ru": "",
+        "ru": "Посыпка",
          // "tr": "",
-        "zh": "糖粉",
     },
     "DescriptionLocalization":
     {
@@ -46,8 +45,7 @@
          // "it": "",
         "ja": "カラフルな色をトッピング！",
         "pt": "Granulado adiciona um pouco de cor a qualquer coisa!",
-         // "ru": "",
+        "ru": "Посыпки добавляют немного цвета ко всему!",
          // "tr": "",
-        "zh": "洒一点给食物增色添彩！",
     }
 }

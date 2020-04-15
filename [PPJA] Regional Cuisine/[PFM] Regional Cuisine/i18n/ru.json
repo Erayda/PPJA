@@ -1,0 +1,14 @@
+{
+    "Crock.Kimchi": "{inputName} Кимчи",
+	"Crock.WhiteKimchi": "{inputName} Белое Кимчи",
+	"Preserve.Fruit": "Засахаренный {inputName}",
+	"Preserve.Salt": "Маринованные {inputName}",
+	"Preserve.SoySauce": " {inputName} в соевом соусе",
+	"Preserve.GochuJang": "{inputName} в перцовой пасте",
+	"Preserve.DoenJang": "{inputName} в Мисо",
+	"Preserve.Fish": "Соленый {inputName}",
+	"Preserve.Oil": "{inputName} в масляном рассоле",
+	"Soju.Fruit": "Соджу с {inputName}",
+	"Soju.Flower": "Соджу с {inputName}",
+	"Soju.Mushroom": "Соджу с {inputName}",
+}

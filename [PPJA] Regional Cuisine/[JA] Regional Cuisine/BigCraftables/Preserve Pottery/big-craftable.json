@@ -35,7 +35,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Кувшин для засола", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         },
@@ -49,7 +49,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Вы можете приготовить консервированные фрукты, соленую рыбу или овощи.", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         }

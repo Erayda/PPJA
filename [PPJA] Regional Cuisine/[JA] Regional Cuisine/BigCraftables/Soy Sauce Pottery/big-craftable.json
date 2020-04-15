@@ -39,7 +39,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Кувшин с соевым соусом", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         },
@@ -53,7 +53,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Полон соевого соуса. Можете приготовить с ним овощи, фрукты и различные блюда.", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         }

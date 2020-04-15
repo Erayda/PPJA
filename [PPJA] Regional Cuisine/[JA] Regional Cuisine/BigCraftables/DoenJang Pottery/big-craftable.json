@@ -39,7 +39,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Кувшин с Мисо", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         },
@@ -53,7 +53,7 @@
             //"it": "", //Italian
             //"ja": "", //Japanese
             //"pt": "", //Portuguese
-            //"ru": "", //Russian
+            "ru": "Переполнен Мисо. Вы можете сделать с ним овощные соленья.", 
             //"tr": "", //Turkish
             //"zh": "", //Chinese (Simplified)
         }
